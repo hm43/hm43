@@ -1,10 +1,6 @@
-<p align="center"><b>Geek & Data Engineer</b> </p>
-
-  
-  
-  
-![image](girl-tech.gif)
-
+<p align="center"><b>Geek & Data Engineer</b>
+  <img src="girl-tech.gif" />
+</p>
 
 <!--
 **hm43/hm43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
