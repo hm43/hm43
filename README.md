@@ -1,4 +1,8 @@
-### Hi there 👋
+![image](girl-tech.gif)
+
+### Welcome to my Github profile!
+
+
 
 <!--
 **hm43/hm43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
