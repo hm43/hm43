@@ -1,7 +1,9 @@
+<p align="center"><b>Geek & Data Engineer</b> </p>
+
+  
+  
+  
 ![image](girl-tech.gif)
-
-### Welcome to my Github profile!
-
 
 
 <!--
@@ -17,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ![](https://komarev.com/ghpvc/?username=hm43&label=Profile%20views&color=0e75b6&style=flat)
+
 -->
